@@ -1,0 +1,32 @@
+{
+  "name": "cordova-admob-mediation-chartboost-construct3",
+  "version": "9.1.1",
+  "description": "Cordova AdMob Mediation Chartboost Ads for Construct 3",
+  "scripts": {
+    "version": "sync-package-version --cordova-plugin"
+  },
+  "cordova": {
+    "id": "cordova-admob-mediation-chartboost-construct3",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": "devktv/cordova-admob-mediation-chartboost-construct3",
+  "author": "devktv",
+  "license": "MIT",
+  "keywords": [
+    "admob-plus-cordova",
+	"cordova-android",
+    "cordova-ios",
+    "cordova",
+    "plugin",
+    "admob",
+    "chartboost",
+    "mediation"
+  ],
+  "bugs": {
+    "url": "https://github.com/devktv/cordova-admob-mediation-chartboost-construct3/issues"
+  },
+  "homepage": "https://github.com/devktv/cordova-admob-mediation-chartboost-construct3"
+}

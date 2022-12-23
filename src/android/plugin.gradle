@@ -1,0 +1,10 @@
+cdvPluginPostBuildExtras.add({
+
+  repositories {
+    mavenCentral()
+  }
+
+  dependencies {
+    implementation  'com.google.ads.mediation:chartboost:9.1.1.0'
+  }
+});
